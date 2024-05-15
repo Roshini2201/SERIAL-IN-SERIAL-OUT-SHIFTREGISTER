@@ -1,7 +1,7 @@
-**EX.NO:10**
+## EX.NO:10
+## DATE: 
 
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
- **DATE:**
  
 **AIM:**
 
@@ -40,11 +40,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
-
-Developed by: ROSHINI S  
-RegisterNumber: 212223240142
-*/
+### Developed by: ROSHINI S  
+### RegisterNumber: 212223240142
 
 ![328823814-1f224b7d-6586-417c-a325-8b3da5e7e60c](https://github.com/Roshini2201/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/154105318/57ba1fc4-2ebf-4662-9046-08ac893adb0b)
 
